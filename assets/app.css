@@ -13,42 +13,42 @@ h1{
   z-index: 0;
   width: 22.34vw;
   height: 12.66vw;
-  background: url("images/Clouds_white/Shape5/cloud_shape5_2.png");
+  background: url("../images/Clouds_white/Shape5/cloud_shape5_2.png");
 }
 
 .heart{
   z-index: 12;
   width: 4.375vw;
   height: 3.541vw;
-  background: url("images/heart.png");
+  background: url("../images/heart.png");
 }
 
 .big-clouds{
   z-index: 10;
   width: 54.79vw;
   height: 35.26vw;
-  background: url("images/Big\ clouds.png");
+  background: url("../images/Big\ clouds.png");
 }
 
 .big-cloud{
   z-index: 9;
   width: 37.447vw;
   height: 23.854vw;
-  background: url("images/Big\ cloud.png");
+  background: url("../images/Big\ cloud.png");
 }
 
 .medium-cloud{
   z-index: 8;
   width: 19.47vw;
   height: 13.33vw;
-  background: url("images/Medium\ cloud.png");
+  background: url("../images/Medium\ cloud.png");
 }
 
 .low-cloud{
   z-index: 7;
   width: 16.875vw;
   height: 9.218vw;
-  background: url("images/Low\ cloud.png");
+  background: url("../images/Low\ cloud.png");
 }
 
 .sprite{
