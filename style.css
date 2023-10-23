@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap');
+
+:root{
+  font-family: 'Lavishly Yours', cursive;
+  touch-action: pan-x pan-y;
+  height: 100%;
+}
+
+*{
+  position: absolute;
+}
+
+#app{
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#app.after{
+    content: '';
+
+    display: table;
+
+    clear: both;
+}
+
+body{
+  background-color: #64C8EA;
+  margin: 0px;
+  overflow: hidden;
+  height: 100vh;
+}
+
+#stop{
+  z-index: 100;
+  top: 56.25vw;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+}
